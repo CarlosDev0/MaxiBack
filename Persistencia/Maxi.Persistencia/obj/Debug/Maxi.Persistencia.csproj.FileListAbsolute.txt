@@ -1,0 +1,92 @@
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Maxi.Persistencia.dll.config
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Maxi.Persistencia.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Maxi.Persistencia.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Antlr3.Runtime.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Dapper.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Iesi.Collections.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\MaxiEntregas.Model.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Remotion.Linq.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Buffers.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Memory.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Numerics.Vectors.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Text.Encodings.Web.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Text.Json.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Threading.Channels.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.ValueTuple.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\MaxiEntregas.Model.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Antlr3.Runtime.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Dapper.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Iesi.Collections.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Remotion.Linq.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Buffers.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Memory.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Numerics.Vectors.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Text.Encodings.Web.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Text.Json.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Threading.Channels.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.ValueTuple.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.csprojAssemblyReference.cache
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.csproj.CoreCompileInputs.cache
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.csproj.CopyComplete
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Npgsql.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Maxi.Persistencia.dll.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Maxi.Persistencia.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Maxi.Persistencia.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Antlr3.Runtime.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Dapper.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Iesi.Collections.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\MaxiEntregas.Model.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Remotion.Linq.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Buffers.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Memory.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Numerics.Vectors.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Text.Encodings.Web.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Text.Json.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Threading.Channels.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.ValueTuple.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\MaxiEntregas.Model.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Antlr3.Runtime.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Dapper.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Iesi.Collections.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Remotion.Linq.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Buffers.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Memory.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Numerics.Vectors.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Text.Encodings.Web.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Text.Json.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Threading.Channels.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\System.ValueTuple.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.csprojAssemblyReference.cache
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.csproj.CopyComplete
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\NLog.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Maxi.Util.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\NLog.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\NHibernate.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Maxi.Util.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\NLog.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\NHibernate.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.Resources.Resources.resources
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\obj\Debug\Maxi.Persistencia.csproj.GenerateResource.cache
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Persistencia\Maxi.Persistencia\bin\Debug\Microsoft.Practices.ObjectBuilder.dll

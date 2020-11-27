@@ -1,0 +1,36 @@
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Maxi.Util.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Maxi.Util.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Antlr3.Runtime.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Iesi.Collections.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\NHibernate.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Remotion.Linq.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Remotion.Linq.EagerFetching.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Antlr3.Runtime.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Iesi.Collections.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\NHibernate.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Remotion.Linq.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Remotion.Linq.EagerFetching.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.csprojAssemblyReference.cache
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.csproj.CoreCompileInputs.cache
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.csproj.CopyComplete
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\NLog.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Maxi.Util.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Maxi.Util.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Antlr3.Runtime.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Iesi.Collections.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\NHibernate.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\NLog.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Remotion.Linq.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Antlr3.Runtime.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Iesi.Collections.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\NHibernate.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\NLog.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Remotion.Linq.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.csprojAssemblyReference.cache
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.csproj.CopyComplete
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Maxi.Util\Maxi.Util\obj\Debug\Maxi.Util.pdb

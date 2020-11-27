@@ -1,0 +1,10 @@
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Model\MaxiEntregas.Model\bin\Debug\MaxiEntregas.Model.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Model\MaxiEntregas.Model\bin\Debug\MaxiEntregas.Model.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Model\MaxiEntregas.Model\obj\Debug\MaxiEntregas.Model.csprojAssemblyReference.cache
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Model\MaxiEntregas.Model\obj\Debug\MaxiEntregas.Model.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\Model\MaxiEntregas.Model\obj\Debug\MaxiEntregas.Model.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Model\MaxiEntregas.Model\bin\Debug\MaxiEntregas.Model.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Model\MaxiEntregas.Model\bin\Debug\MaxiEntregas.Model.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Model\MaxiEntregas.Model\obj\Debug\MaxiEntregas.Model.csproj.CoreCompileInputs.cache
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Model\MaxiEntregas.Model\obj\Debug\MaxiEntregas.Model.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\Model\MaxiEntregas.Model\obj\Debug\MaxiEntregas.Model.pdb

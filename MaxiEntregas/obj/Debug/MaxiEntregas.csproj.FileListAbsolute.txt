@@ -1,0 +1,181 @@
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.dll.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csc.exe
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csc.exe.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csc.rsp
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csi.exe
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csi.exe.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csi.rsp
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.AppContext.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Collections.Immutable.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Console.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Globalization.Calendars.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.IO.Compression.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.IO.FileSystem.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Net.Http.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Net.Sockets.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Reflection.Metadata.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.ValueTuple.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Xml.XPath.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\vbc.exe
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\vbc.exe.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\vbc.rsp
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\VBCSCompiler.exe
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\VBCSCompiler.exe.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Newtonsoft.Json.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\System.Net.Http.Formatting.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\System.Web.Http.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\System.Web.Http.WebHost.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Newtonsoft.Json.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\System.Net.Http.Formatting.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\System.Web.Http.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\System.Web.Http.WebHost.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\es\System.Net.Http.Formatting.resources.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\es\System.Web.Http.resources.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\es\System.Web.Http.WebHost.resources.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.csprojAssemblyReference.cache
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.csproj.CopyComplete
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.Model.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.Model.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.csprojAssemblyReference.cache
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.csproj.CoreCompileInputs.cache
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.dll.config
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csc.exe
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csc.exe.config
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csc.rsp
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csi.exe
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csi.exe.config
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\csi.rsp
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.AppContext.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Collections.Immutable.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Console.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Globalization.Calendars.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.IO.Compression.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.IO.FileSystem.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Net.Http.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Net.Sockets.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Reflection.Metadata.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.ValueTuple.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Xml.XPath.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\vbc.exe
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\vbc.exe.config
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\vbc.rsp
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\VBCSCompiler.exe
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\roslyn\VBCSCompiler.exe.config
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Antlr3.Runtime.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Iesi.Collections.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Persistencia.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Util.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.Model.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Newtonsoft.Json.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Remotion.Linq.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Remotion.Linq.EagerFetching.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\System.Net.Http.Formatting.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\System.Web.Http.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\System.Web.Http.WebHost.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\NHibernate.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Dapper.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Util.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\MaxiEntregas.Model.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Persistencia.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Persistencia.dll.config
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Antlr3.Runtime.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Iesi.Collections.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Remotion.Linq.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Remotion.Linq.EagerFetching.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Newtonsoft.Json.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\System.Net.Http.Formatting.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\System.Web.Http.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\System.Web.Http.WebHost.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\NHibernate.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Dapper.xml
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\es\System.Net.Http.Formatting.resources.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\es\System.Web.Http.resources.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\es\System.Web.Http.WebHost.resources.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.csproj.CopyComplete
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.dll
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\obj\Debug\MaxiEntregas.pdb
+E:\CARLOS\Ude@\Proyecto Integrador I\MaxiEntregasNet\MaxiEntregas\bin\Npgsql.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Antlr3.Runtime.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Iesi.Collections.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Persistencia.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Util.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Remotion.Linq.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Remotion.Linq.EagerFetching.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\NHibernate.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Dapper.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Util.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Persistencia.pdb
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Maxi.Persistencia.dll.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Antlr3.Runtime.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Iesi.Collections.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Remotion.Linq.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Remotion.Linq.EagerFetching.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\NHibernate.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\Dapper.xml
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\NLog.config
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\NLog.dll
+C:\CARLOS\PERSONAL\Ude@\Integrador_I\MaxiEntregasNet\MaxiEntregas\bin\NLog.xml

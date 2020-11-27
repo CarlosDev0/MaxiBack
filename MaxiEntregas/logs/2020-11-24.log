@@ -1,0 +1,4 @@
+2020-11-24 16:34:33.1115 ERROR Exception La mejor coincidencia de método sobrecargado para 'int.TryParse(string, out int)' tiene algunos argumentos no válidos
+2020-11-24 16:38:05.7243 ERROR Exception La mejor coincidencia de método sobrecargado para 'int.TryParse(string, out int)' tiene algunos argumentos no válidos
+2020-11-24 16:47:02.0311 ERROR Exception No se ha inicializado la propiedad ConnectionString.
+2020-11-24 16:47:18.2566 ERROR Exception No se ha inicializado la propiedad ConnectionString.
