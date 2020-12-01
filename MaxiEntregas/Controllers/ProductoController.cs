@@ -47,9 +47,10 @@ namespace MaxiEntregas.Controllers
         }
         [HttpDelete]
         [Route("delete")]
-        public IHttpActionResult Eliminar(Producto producto)
+        public IHttpActionResult Eliminar(Int16 idProducto)
         {
-
+            Producto producto = new Producto();
+            producto.idProducto = idProducto;
             var respuestaEliminar = ProductoDAO.EliminarProducto(producto);
             if (respuestaEliminar)
                 return Ok(202);
@@ -60,9 +61,10 @@ namespace MaxiEntregas.Controllers
         //BuscarProductoId
         [HttpGet]
         [Route("findById")]
-        public IEnumerable<Producto> BuscarxId(Producto producto)
+        public IEnumerable<Producto> BuscarxId(Int16 idProducto)
         {
-
+            Producto producto = new Producto();
+            producto.idProducto = idProducto;
             var respuestaBuscar = ProductoDAO.BuscarProductoId(producto);
             return respuestaBuscar;
 

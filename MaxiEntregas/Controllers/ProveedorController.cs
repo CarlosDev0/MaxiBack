@@ -48,9 +48,10 @@ namespace MaxiEntregas.Controllers
         }
         [HttpDelete]
         [Route("delete")]
-        public IHttpActionResult Eliminar(Proveedor proveedor)
+        public IHttpActionResult Eliminar(Int16 idproveedor)
         {
-
+            Proveedor proveedor = new Proveedor();
+            proveedor.idProveedor = idproveedor;
             var respuestaEliminar = ProveedorDAO.EliminarProveedor(proveedor);
             if (respuestaEliminar)
                 return Ok(202);
@@ -61,9 +62,10 @@ namespace MaxiEntregas.Controllers
         //BuscarProductoId
         [HttpGet]
         [Route("findById")]
-        public IEnumerable<Proveedor> BuscarxId(Proveedor proveedor)
+        public IEnumerable<Proveedor> BuscarxId(Int16 idproveedor)
         {
-
+            Proveedor proveedor = new Proveedor();
+            proveedor.idProveedor = idproveedor;
             var respuestaBuscar = ProveedorDAO.BuscarProveedorId(proveedor);
             return respuestaBuscar;
 

@@ -63,7 +63,7 @@ namespace Maxi.Persistencia.Proveedores
                 {
                     var parametros = new
                     {
-                        idproducto = proveedor.idProveedor,
+                        idproveedor = proveedor.idProveedor,
 
                     };
 
@@ -226,7 +226,7 @@ namespace Maxi.Persistencia.Proveedores
 
                         var parametros = new
                         {
-                            idproducto = proveedor.idProveedor,
+                            idproveedor = proveedor.idProveedor,
 
                         };
 
