@@ -97,6 +97,15 @@ namespace Maxi.Persistencia.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_EliminarZona @idZona.
+        /// </summary>
+        internal static string EliminarZona {
+            get {
+                return ResourceManager.GetString("EliminarZona", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a exec dbo.SP_ListarProductos.
         /// </summary>
         internal static string GetAllProductos {
@@ -111,6 +120,15 @@ namespace Maxi.Persistencia.Resources {
         internal static string GetAllProveedores {
             get {
                 return ResourceManager.GetString("GetAllProveedores", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_ListarZonas.
+        /// </summary>
+        internal static string GetAllZonas {
+            get {
+                return ResourceManager.GetString("GetAllZonas", resourceCulture);
             }
         }
         
@@ -133,6 +151,15 @@ namespace Maxi.Persistencia.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_BuscarZonaxId @idZona.
+        /// </summary>
+        internal static string GetZonaById {
+            get {
+                return ResourceManager.GetString("GetZonaById", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a exec dbo.SP_InsertarProducto @nombreProducto, @dimensiones, @unidadEmpaque, @precio.
         /// </summary>
         internal static string InsertProducto {
@@ -151,6 +178,15 @@ namespace Maxi.Persistencia.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_InsertarZona @nombreZona, @municipio, @estado, @valorCobro.
+        /// </summary>
+        internal static string InsertZona {
+            get {
+                return ResourceManager.GetString("InsertZona", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a exec dbo.SP_ActualizarProducto @idproducto, @nombreProducto, @dimensiones, @unidadEmpaque, @precio.
         /// </summary>
         internal static string UpdateProducto {
@@ -165,6 +201,15 @@ namespace Maxi.Persistencia.Resources {
         internal static string UpdateProveedor {
             get {
                 return ResourceManager.GetString("UpdateProveedor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_ActualizarZona @idZona, @nombreZona, @municipio, @estado, @valorCobro.
+        /// </summary>
+        internal static string UpdateZona {
+            get {
+                return ResourceManager.GetString("UpdateZona", resourceCulture);
             }
         }
     }

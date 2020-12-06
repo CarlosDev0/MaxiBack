@@ -126,6 +126,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Usuario\UsuarioDAO.cs" />
+    <Compile Include="Zona\ZonaDAO.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

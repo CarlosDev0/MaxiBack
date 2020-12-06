@@ -133,6 +133,10 @@
     <value>exec dbo.SP_EliminarProveedor @idproveedor</value>
     <comment>SP_Para EliminarProveedor</comment>
   </data>
+  <data name="EliminarZona" xml:space="preserve">
+    <value>exec dbo.SP_EliminarZona @idZona</value>
+    <comment>SP para Eliminar una zona</comment>
+  </data>
   <data name="GetAllProductos" xml:space="preserve">
     <value>exec dbo.SP_ListarProductos</value>
     <comment>Sp para Obtener todos los productos</comment>
@@ -140,6 +144,10 @@
   <data name="GetAllProveedores" xml:space="preserve">
     <value>exec dbo.SP_ListarProveedores</value>
     <comment>Sp para Obtener todos los Proveedor</comment>
+  </data>
+  <data name="GetAllZonas" xml:space="preserve">
+    <value>exec dbo.SP_ListarZonas</value>
+    <comment>SP para Obtener todas las zonas</comment>
   </data>
   <data name="GetProductoById" xml:space="preserve">
     <value>exec dbo.SP_BuscarProductoxId @idproducto</value>
@@ -149,6 +157,10 @@
     <value>exec dbo.SP_BuscarProveedorxId @idproveedor</value>
     <comment>SP_BuscarProveedor x Id</comment>
   </data>
+  <data name="GetZonaById" xml:space="preserve">
+    <value>exec dbo.SP_BuscarZonaxId @idZona</value>
+    <comment>SP para buacar Zona x Id</comment>
+  </data>
   <data name="InsertProducto" xml:space="preserve">
     <value>exec dbo.SP_InsertarProducto @nombreProducto, @dimensiones, @unidadEmpaque, @precio</value>
     <comment>Sp para InsertarProducto</comment>
@@ -157,6 +169,10 @@
     <value>exec dbo.SP_InsertarProveedor @celular, @direccion, @emailContacto, @estado, @nit, @nombreContacto, @nroDocContacto, @razonSocial, @telefonoFijo, @tipoDocContacto</value>
     <comment>Sp para InsertarProveedor</comment>
   </data>
+  <data name="InsertZona" xml:space="preserve">
+    <value>exec dbo.SP_InsertarZona @nombreZona, @municipio, @estado, @valorCobro</value>
+    <comment>SP para Insertar Una nueva Zona</comment>
+  </data>
   <data name="UpdateProducto" xml:space="preserve">
     <value>exec dbo.SP_ActualizarProducto @idproducto, @nombreProducto, @dimensiones, @unidadEmpaque, @precio</value>
     <comment>Sp_ActualizarProducto</comment>
@@ -164,5 +180,9 @@
   <data name="UpdateProveedor" xml:space="preserve">
     <value>exec dbo.SP_ActualizarProveedor @idProveedor, @celular, @direccion, @emailContacto, @estado, @nit, @nombreContacto, @nroDocContacto, @razonSocial, @telefonoFijo, @tipoDocContacto,</value>
     <comment>Sp_ActualizarProveedor</comment>
+  </data>
+  <data name="UpdateZona" xml:space="preserve">
+    <value>exec dbo.SP_ActualizarZona @idZona, @nombreZona, @municipio, @estado, @valorCobro</value>
+    <comment>SP para Actualizar una Zona</comment>
   </data>
 </root>

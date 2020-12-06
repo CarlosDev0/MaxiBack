@@ -1,0 +1,14 @@
+Host
+    ec2-52-5-176-53.compute-1.amazonaws.com
+Database
+    dckphlp91n7cg4
+User
+    crzqmbratkgxxw
+Port
+    5432
+Password
+    ad8d4b2a71e70c880aa702cd9f51dbe94c753de8accc202787af16b781ae54d8
+URI
+    postgres://crzqmbratkgxxw:ad8d4b2a71e70c880aa702cd9f51dbe94c753de8accc202787af16b781ae54d8@ec2-52-5-176-53.compute-1.amazonaws.com:5432/dckphlp91n7cg4
+Heroku CLI
+    heroku pg:psql postgresql-cubic-43952 --app maxientregas
