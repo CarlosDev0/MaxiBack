@@ -115,6 +115,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataAccess\AccesoDatos.cs" />
+    <Compile Include="Domiciliario\DomiciliarioDAO.cs" />
     <Compile Include="Login\LoginDAO.cs" />
     <Compile Include="DataAccess\Parameter.cs" />
     <Compile Include="Producto\ProductoDAO.cs" />

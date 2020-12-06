@@ -79,6 +79,15 @@ namespace Maxi.Persistencia.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_EliminarDomiciliario @idDomiciliario.
+        /// </summary>
+        internal static string EliminarDomiciliario {
+            get {
+                return ResourceManager.GetString("EliminarDomiciliario", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a exec dbo.SP_EliminarProducto @idproducto.
         /// </summary>
         internal static string EliminarProducto {
@@ -102,6 +111,15 @@ namespace Maxi.Persistencia.Resources {
         internal static string EliminarZona {
             get {
                 return ResourceManager.GetString("EliminarZona", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_ListarDomiciliarios.
+        /// </summary>
+        internal static string GetAllDomiciliarios {
+            get {
+                return ResourceManager.GetString("GetAllDomiciliarios", resourceCulture);
             }
         }
         
@@ -133,6 +151,15 @@ namespace Maxi.Persistencia.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_BuscarDomiciliarioxId @idDomiciliario.
+        /// </summary>
+        internal static string GetDomiciliarioById {
+            get {
+                return ResourceManager.GetString("GetDomiciliarioById", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a exec dbo.SP_BuscarProductoxId @idproducto.
         /// </summary>
         internal static string GetProductoById {
@@ -160,6 +187,15 @@ namespace Maxi.Persistencia.Resources {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_InsertarDomiciliario @celular , @telefono , @nombres , @apellidos , @tipoDoc , @nroDoc , @direccion.
+        /// </summary>
+        internal static string InsertDomiciliario {
+            get {
+                return ResourceManager.GetString("InsertDomiciliario", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a exec dbo.SP_InsertarProducto @nombreProducto, @dimensiones, @unidadEmpaque, @precio.
         /// </summary>
         internal static string InsertProducto {
@@ -183,6 +219,15 @@ namespace Maxi.Persistencia.Resources {
         internal static string InsertZona {
             get {
                 return ResourceManager.GetString("InsertZona", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a exec dbo.SP_ActualizarDomiciliario @idDomiciliario, @celular , @telefono , @estado , @nombres , @apellidos , @tipoDoc , @direccion, @nroDoc.
+        /// </summary>
+        internal static string UpdateDomiciliario {
+            get {
+                return ResourceManager.GetString("UpdateDomiciliario", resourceCulture);
             }
         }
         

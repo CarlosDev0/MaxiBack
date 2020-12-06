@@ -125,6 +125,10 @@
     <value>exec dbo.SP_CrearPassword @UserName, @Password</value>
     <comment>SP Para crear un nuevo password</comment>
   </data>
+  <data name="EliminarDomiciliario" xml:space="preserve">
+    <value>exec dbo.SP_EliminarDomiciliario @idDomiciliario</value>
+    <comment>SP para Eliminar Domiciliario</comment>
+  </data>
   <data name="EliminarProducto" xml:space="preserve">
     <value>exec dbo.SP_EliminarProducto @idproducto</value>
     <comment>SP_EliminarProducto</comment>
@@ -136,6 +140,10 @@
   <data name="EliminarZona" xml:space="preserve">
     <value>exec dbo.SP_EliminarZona @idZona</value>
     <comment>SP para Eliminar una zona</comment>
+  </data>
+  <data name="GetAllDomiciliarios" xml:space="preserve">
+    <value>exec dbo.SP_ListarDomiciliarios</value>
+    <comment>SP para obtener todos los Domiciliario</comment>
   </data>
   <data name="GetAllProductos" xml:space="preserve">
     <value>exec dbo.SP_ListarProductos</value>
@@ -149,6 +157,10 @@
     <value>exec dbo.SP_ListarZonas</value>
     <comment>SP para Obtener todas las zonas</comment>
   </data>
+  <data name="GetDomiciliarioById" xml:space="preserve">
+    <value>exec dbo.SP_BuscarDomiciliarioxId @idDomiciliario</value>
+    <comment>SP_BuscarDomiciliario x Id</comment>
+  </data>
   <data name="GetProductoById" xml:space="preserve">
     <value>exec dbo.SP_BuscarProductoxId @idproducto</value>
     <comment>SP_BuscarProducto x Id</comment>
@@ -161,6 +173,10 @@
     <value>exec dbo.SP_BuscarZonaxId @idZona</value>
     <comment>SP para buacar Zona x Id</comment>
   </data>
+  <data name="InsertDomiciliario" xml:space="preserve">
+    <value>exec dbo.SP_InsertarDomiciliario @celular , @telefono , @nombres , @apellidos , @tipoDoc , @nroDoc , @direccion</value>
+    <comment>Sp para Insertar Domiciliario</comment>
+  </data>
   <data name="InsertProducto" xml:space="preserve">
     <value>exec dbo.SP_InsertarProducto @nombreProducto, @dimensiones, @unidadEmpaque, @precio</value>
     <comment>Sp para InsertarProducto</comment>
@@ -172,6 +188,10 @@
   <data name="InsertZona" xml:space="preserve">
     <value>exec dbo.SP_InsertarZona @nombreZona, @municipio, @estado, @valorCobro</value>
     <comment>SP para Insertar Una nueva Zona</comment>
+  </data>
+  <data name="UpdateDomiciliario" xml:space="preserve">
+    <value>exec dbo.SP_ActualizarDomiciliario @idDomiciliario, @celular , @telefono , @estado , @nombres , @apellidos , @tipoDoc , @direccion, @nroDoc</value>
+    <comment>Sp para Actualizar Domiciliario</comment>
   </data>
   <data name="UpdateProducto" xml:space="preserve">
     <value>exec dbo.SP_ActualizarProducto @idproducto, @nombreProducto, @dimensiones, @unidadEmpaque, @precio</value>
